@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aaaaAAAAAAAa
+=======
+aaaaaaaaAAa
+>>>>>>> coupon
 bb
 cc
 
