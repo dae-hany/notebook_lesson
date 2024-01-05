@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 aaaaAAAAAAAa
-=======
-aaaaaaaaAAa
->>>>>>> coupon
 bb
 cc
 
@@ -12,3 +8,5 @@ cc
 여기도 기능 1
 기능 2
 기능 3
+
+아무말1
